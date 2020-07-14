@@ -1,0 +1,15 @@
+{
+	"cookie": "ogusersmybbuser=",
+	"my_post_key": "",
+	"signature": 0,
+	"bump_delay": {
+		"posts": 15,
+		"threads": 1800
+	},
+	"thread_queue": {
+		"threadID": "Autobumping this!"
+	},
+	"proxies": {
+		"https": "ip:port"
+	}
+}
