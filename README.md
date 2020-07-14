@@ -4,10 +4,12 @@
 - Python 3.6 or later
 - Requests
 
-### Setup
-
+### config.json
 - Open the network tab in your browser console and reply to a thread
-- Under Request Headers, copy the value of **cookie** or just "ogusersmybbuser=XXXXXXXXXXXXX;"
-- Under Form Data, copy the value of "my_post_key"
-- Put both of them in **config.json**
+- "cookie":  Under Request Headers, copy the whole value of "cookie" or just "ogusersmybbuser=XXXXXXXXXXXXX;"
+- "my_post_key":  Copy the value under Form Data
+- "signature":  Whether it's included while bumping
+- "bump_delay": 
+  - "posts"  - delay between bumping each thread (in seconds)
+  - "threads" - delay between each bump per thread
 - Get ThreadID from the address bar after clicking reply on a thread.
