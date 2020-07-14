@@ -11,3 +11,5 @@
 - Under Request Headers, copy the value of **cookie** or just "ogusersmybbuser=XXXXXXXXXXXXX;"
 - Under Form Data, copy the value of "my_post_key"
 - Put both of them in **config.json**
+
+ThreadID is in the address bar after clicking reply to a thread.
