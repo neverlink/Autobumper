@@ -1,4 +1,4 @@
-## Simple and flexible thread bumper with proxy support, suitable for myBB forums.
+## Autobumper
 
 ### Requirements
 - Python 3.6 or later
