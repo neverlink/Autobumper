@@ -30,7 +30,6 @@ def bump_threads():
             time.sleep(bump_delay["posts"])
         except:
             print("Update your proxies and try again!")
-            quit()
 
 while True:
     bump_threads()
